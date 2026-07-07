@@ -1,0 +1,40 @@
+{
+  "identifier": "BeehiveLog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "20000000",
+      "localizations": [],
+      "name": "BeehiveLog Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "20000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Multi-hive dashboard and honey-harvest yield tracking",
+              "displayName": "BeehiveLog Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.beehivelog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "BeehiveLog Pro Monthly",
+          "subscriptionGroupID": "20000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
