@@ -6,5 +6,4 @@ struct BeehiveLogEntry: Identifiable, Codable, Equatable {
     var date: Date
     var hive: String
     var notes: String
-    var notes: String = ""
 }
