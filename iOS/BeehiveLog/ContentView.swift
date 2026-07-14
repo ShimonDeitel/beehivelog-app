@@ -157,8 +157,7 @@ struct EntryEditView: View {
                             title: title.isEmpty ? "Inspection" : title,
                             date: date,
                             hive: f1,
-                            notes: f2,
-                            notes: notes
+                            notes: f2
                         )
                         onSave(saved)
                         dismiss()

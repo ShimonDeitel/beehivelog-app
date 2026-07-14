@@ -55,7 +55,7 @@ final class Store: ObservableObject {
     private func seed() {
         let now = Date()
         entries = [
-            BeehiveLogEntry(title: "First Inspection", date: now, hive: "", notes: "", notes: "Welcome — this is your first entry."),
+            BeehiveLogEntry(title: "First Inspection", date: now, hive: "", notes: "Welcome — this is your first entry."),
         ]
     }
 
